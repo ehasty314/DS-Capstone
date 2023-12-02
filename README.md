@@ -1,4 +1,4 @@
-This project was completed by Emmitt Hasty and Kenny Phan.
+This project was completed by Emmitt Hasty and Kenny Phan. The full interactive map is available here: https://www.arcgis.com/apps/dashboards/a53ce4e6d8bd44ffb9456d407f720c1c
 
 # Florida Population and Land Use Analysis
 

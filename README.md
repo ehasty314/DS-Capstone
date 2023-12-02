@@ -1,5 +1,4 @@
-This project was completed by Emmitt Hasty and Kenny Phan. The full interactive map is available here: https://www.arcgis.com/apps/dashboards/a53ce4e6d8bd44ffb9456d407f720c1c
-
+This project was completed by Emmitt Hasty and Kenny Phan.
 # Florida Population and Land Use Analysis
 
 This GitHub repository houses a comprehensive project analyzing Florida's population, land use, and elevation data. The primary objective is to explore the spatial distribution of the population, types of land use, and evaluate the potential impact of sea-level rise. The culmination of this project is an interactive map, viewable at [Florida Interactive Map](https://www.arcgis.com/apps/dashboards/a53ce4e6d8bd44ffb9456d407f720c1c), which visualizes our findings.

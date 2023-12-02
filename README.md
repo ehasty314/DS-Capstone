@@ -9,7 +9,7 @@ This repository contains a comprehensive analysis of Florida's population, land 
 The analysis involves several key steps:
 
 ### Data Loading and Cleaning
-- **Sources**: Datasets include land use/land cover and census data.
+- **Sources**: Included above in the Data/Raw_Data folder.
 - **Processing**: Data are loaded into pandas and geopandas DataFrames.
 - **Cleaning**: Renaming columns, handling missing values, and standardizing data formats.
 
@@ -34,7 +34,7 @@ The analysis involves several key steps:
 - **Spatial Analysis Focus**: Emphasis on understanding geographic patterns.
 
 ## Enhancements
-- **Interactive Visualizations**: (Future work) To make data more engaging.
+- **Interactive Visualizations**: (Future work) To extend the data to new coastal areas, to allow new states to understand their risks.
 - **Advanced Statistical Analysis**: (Potential) For deeper insights.
 - **Documentation**: Ensuring transparency and reproducibility.
 

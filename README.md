@@ -2,7 +2,8 @@ This project was completed by Emmitt Hasty and Kenny Phan. The full interactive 
 
 # Florida Population and Land Use Analysis
 
-This repository contains a comprehensive analysis of Florida's population, land use, and elevation data. The project aims to understand the spatial distribution of population and land use types, and to assess the impact of potential sea-level rise on these factors.
+This GitHub repository houses a comprehensive project analyzing Florida's population, land use, and elevation data. The primary objective is to explore the spatial distribution of the population, types of land use, and evaluate the potential impact of sea-level rise. The culmination of this project is an interactive map, viewable at [Florida Interactive Map](https://www.arcgis.com/apps/dashboards/a53ce4e6d8bd44ffb9456d407f720c1c), which visualizes our findings.
+
 
 ## Project Overview
 
@@ -25,8 +26,8 @@ The analysis involves several key steps:
 - **Scoring System**: Development of a scoring system based on urban and built-up land use.
 - **Integration with Income Data**: Adding income data to analyze socio-economic factors.
 
-### Exporting Processed Data
-- Data is exported for further analysis or sharing.
+### Final Data Output
+- **CSV Export**: The final processed data is exported as a CSV file, used in the ArcGIS interactive map. This CSV is the output of the `risk_refinement.ipynb` notebook.
 
 ## Features
 - **Holistic Analysis**: Covers demographic, topographic, and economic factors.
@@ -43,5 +44,5 @@ emhrv3@umsystem.edu
 
 ---
 
-This project demonstrates a robust approach to analyzing key aspects of Florida's geography and demography. For detailed information, refer to the individual files and folders in this repository.
+This repository offers a rich and insightful analysis of Florida's population dynamics, land use patterns, and potential future risks. The interactive map serves as a powerful tool to visualize and understand these complex spatial relationships. For more detailed information, please refer to the individual files and folders within this repository.
 

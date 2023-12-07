@@ -20,6 +20,7 @@ The analysis involves several key steps:
 ### Data Visualization
 - **Mapping**: Creation of color-coded maps using matplotlib.
 - **Graphical Representation**: Plots to visually summarize data distributions.
+- **Dashboard**: Interact, report, and share results using ArcGIS Dashboard.
 
 ### Risk Scoring and Analysis
 - **Scoring System**: Development of a scoring system based on urban and built-up land use.
